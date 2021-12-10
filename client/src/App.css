@@ -1,0 +1,87 @@
+
+
+.App {
+  text-align: center;
+  display: table;
+  margin: 0 auto;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.MonthBox , .YearBox {
+  height: 18px;
+  display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+.Controller {
+  padding-top: 10px;
+}
+
+.Controller ul {
+	list-style: none;
+  margin: 7px auto;
+}
+
+.Controller li {
+  display: inline;
+  padding: 0 4px;
+  margin: 0 2px;
+}
+
+.Controller .active {
+  background-color: #c9c9c9;
+}
+
+.Controller li:hover {
+  cursor: pointer;
+}
+
+.Controller .active {
+  border: 0px, solid, lightskyblue;
+  border-radius: 7px 7px 7px 7px;
+  background-color: lightskyblue;
+}
+
+.Controller li:hover {
+  cursor: pointer;
+  border: 0px, solid, #c9c9c9;
+  border-radius: 7px 7px 7px 7px;
+  background-color: lightskyblue;
+}
+
+.CompareBox {
+  padding-bottom: 10px;
+}
+
+#stats {
+  padding: 10px 0;
+}
+
+.LeftAlign {
+  width: 50%;
+  float: left;
+}
+
+.RightAlign {
+  margin-left: 50%;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #a9d2ee;
+}
+
+.flex-boxes {
+  border: 1px solid black;
+  padding: 10px;
+  flex:30%;
+}
+
+.flex-text {
+  overflow-wrap: break-word;
+}

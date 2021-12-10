@@ -1,0 +1,114 @@
+{
+   "22": {
+      "student": 2,
+      "employee": 0
+   },
+   "23": {
+      "student": 0,
+      "employee": 2
+   },
+   "24": {
+      "student": 1,
+      "employee": 0
+   },
+   "25": {
+      "student": 1,
+      "employee": 1
+   },
+   "26": {
+      "student": 0,
+      "employee": 1
+   },
+   "27": {
+      "student": 0,
+      "employee": 1
+   },
+   "29": {
+      "student": 1,
+      "employee": 0
+   },
+   "30": {
+      "student": 1,
+      "employee": 0
+   },
+   "31": {
+      "student": 3,
+      "employee": 2
+   },
+   "10": {
+      "student": 4,
+      "employee": 0
+   },
+   "11": {
+      "student": 5,
+      "employee": 1
+   },
+   "12": {
+      "student": 3,
+      "employee": 0
+   },
+   "13": {
+      "student": 1,
+      "employee": 0
+   },
+   "14": {
+      "student": 2,
+      "employee": 0
+   },
+   "15": {
+      "student": 2,
+      "employee": 0
+   },
+   "16": {
+      "student": 2,
+      "employee": 0
+   },
+   "18": {
+      "student": 4,
+      "employee": 0
+   },
+   "1": {
+      "student": 5,
+      "employee": 2
+   },
+   "2": {
+      "student": 8,
+      "employee": 1
+   },
+   "3": {
+      "student": 1,
+      "employee": 0
+   },
+   "4": {
+      "student": 3,
+      "employee": 1
+   },
+   "5": {
+      "student": 3,
+      "employee": 0
+   },
+   "6": {
+      "student": 1,
+      "employee": 0
+   },
+   "7": {
+      "student": 5,
+      "employee": 0
+   },
+   "8": {
+      "student": 1,
+      "employee": 2
+   },
+   "9": {
+      "student": 4,
+      "employee": 1
+   },
+   "20": {
+      "student": 1,
+      "employee": 1
+   },
+   "21": {
+      "student": 3,
+      "employee": 1
+   }
+}

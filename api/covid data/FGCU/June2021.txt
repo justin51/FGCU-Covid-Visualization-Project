@@ -1,0 +1,18 @@
+{
+   "5": {
+      "student": 1,
+      "employee": 0
+   },
+   "28": {
+      "student": 1,
+      "employee": 0
+   },
+   "18": {
+      "student": 0,
+      "employee": 1
+   },
+   "8": {
+      "student": 0,
+      "employee": 1
+   }
+}

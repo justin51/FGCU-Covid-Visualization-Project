@@ -1,0 +1,50 @@
+{
+   "22": {
+      "student": 0,
+      "employee": 1
+   },
+   "12": {
+      "student": 2,
+      "employee": 0
+   },
+   "24": {
+      "student": 0,
+      "employee": 1
+   },
+   "26": {
+      "student": 1,
+      "employee": 0
+   },
+   "15": {
+      "student": 2,
+      "employee": 0
+   },
+   "4": {
+      "student": 1,
+      "employee": 0
+   },
+   "5": {
+      "student": 1,
+      "employee": 0
+   },
+   "28": {
+      "student": 0,
+      "employee": 1
+   },
+   "29": {
+      "student": 1,
+      "employee": 1
+   },
+   "18": {
+      "student": 2,
+      "employee": 0
+   },
+   "30": {
+      "student": 0,
+      "employee": 1
+   },
+   "10": {
+      "student": 1,
+      "employee": 0
+   }
+}
